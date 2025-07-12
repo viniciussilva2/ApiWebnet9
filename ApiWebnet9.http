@@ -1,0 +1,6 @@
+@ApiWEBNET9_HostAddress = http://localhost:5077
+
+GET {{ApiWEBNET9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
